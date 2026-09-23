@@ -5,7 +5,7 @@ describe('Math Utility Tests', () => {
   
   // Test suite setup (optional)
   beforeEach(() => {
-    // This runs before every individual test case
+
   });
 
   // Test case 1: Addition
